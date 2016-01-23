@@ -1,0 +1,13 @@
+D:\Programming\IS SoundSystem\ISS\IS\bin\Release\IS.exe.config
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.AddTracks.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.AllTracks.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.CreateList.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Login.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.MyPlaylists.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Playlists.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Properties.Resources.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.MainMenu.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Signup.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Soundtracks.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.Update_Data.resources
+D:\Programming\IS SoundSystem\ISS\IS\obj\Release\IS.csproj.GenerateResource.Cache
